@@ -16,8 +16,9 @@ Linked to my Account.
  - Line Height: 1.2
 
 #### Theme
-Material UI
- - Material Oceanic (Contrast - no compact)
+`Material UI`: Material Oceanic (Contrast - no compact)
+
+---
 
 ### Tabby
 #### Font
