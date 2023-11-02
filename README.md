@@ -27,6 +27,8 @@ Linked to my Account.
 - Normal Font Weight: 400
 - Bold Font Weight: 700
 
+---
+
 ### Zed
 `Font`: **Jetbrains Mono**
 - Size: 13
